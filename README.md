@@ -1,4 +1,6 @@
-# MuseTree
+# MuseTree Legacy
+
+**This is the legacy version of musetree. Please use [the current version](https://github.com/stevenwaterman/musetree) where possible**
 
 MuseTree is a custom front-end for [MuseNet](https://openai.com/blog/musenet/), the AI music generator.
 It is designed for real music production, and aims to fix the problems with the official app.

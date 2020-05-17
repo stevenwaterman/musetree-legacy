@@ -8,10 +8,8 @@
   import Links from "./links/Links.svelte";
 
   alert("Important Notice\n" +
-          "On 2020-05-16, MuseTree will undergo a major update to version 2.\n" +
-          "While version 2 is essentially identical on the surface, its internals have been almost entirely rewritten.\n" +
-          "This means that any save files created in v1 will not be supported in v2.\n" +
-          "v1 will still be available for those that need it but will not be supported or updated in the future")
+          "This is the legacy version of musetree.\n" +
+          "Please visit musetree.stevenwaterman.uk for the latest version.");
 </script>
 
 <style>

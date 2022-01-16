@@ -16,7 +16,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.2",
     "d3": "^5.15.0",
     "downloadjs": "^1.4.7",
     "retry-axios": "^2.1.1",
